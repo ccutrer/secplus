@@ -1,0 +1,14 @@
+
+{
+    "name": "secplus",
+    "version": "1.0.0",
+    "description": "Encode and decode Security+ 2.0 packets from garage door openers.",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/argilo/secplus"
+    },
+    "license": "GPL",
+    "includeDir": "src",
+    "srcDir": "src"
+}
+
